@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zodiacpit.com/sitemap.xml
